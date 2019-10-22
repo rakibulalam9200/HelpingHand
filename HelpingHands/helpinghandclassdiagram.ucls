@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="com.helpinghand.model.Category" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/model/Category.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="176" x="4047" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="com.helpinghand.service.MatrialpostService" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/service/MatrialpostService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="242" x="5760" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="com.helpinghand.dao.BookpostDao" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/dao/BookpostDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="216" x="5120" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="com.helpinghand.daoImpl.BookpostDaoImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/daoImpl/BookpostDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="216" x="4736" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="com.helpinghand.service.AdminService" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/service/AdminService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="190" x="4992" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="6" language="java" name="com.helpinghand.service.Contactservice" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/service/Contactservice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="195" x="4501" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="com.helpinghand.controller.Manageuser" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/controller/Manageuser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="288" x="5590" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.helpinghand.daoImpl.ManageuserDaoImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/daoImpl/ManageuserDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="192" x="6042" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="9" language="java" name="com.helpinghand.service" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/service" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="166" x="3583" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="10" language="java" name="com.helpinghand.model.ContactInfo" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/model/ContactInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="218" x="3789" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.helpinghand.model.User" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/model/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="223" x="2657" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.helpinghand.daoImpl.CategoryDaoImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/daoImpl/CategoryDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="186" x="3584" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="com.helpinghand.service.ManageuserService" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/service/ManageuserService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="192" x="6274" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="com.helpinghand.serviceImpl.BookpostServiceImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/serviceImpl/BookpostServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="216" x="5504" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="com.helpinghand.dao.ManageuserDao" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/dao/ManageuserDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="192" x="6042" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <package id="16" language="java" name="com.helpinghand.daoImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/daoImpl" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="169" x="2448" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="17" language="java" name="com.helpinghand.serviceImpl.ManageuserServiceImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/serviceImpl/ManageuserServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="192" x="6274" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.helpinghand.serviceImpl.CategoryServiceImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/serviceImpl/CategoryServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="186" x="4045" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="com.helpinghand.dao.AdminDao" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/dao/AdminDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="190" x="4271" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="20" language="java" name="com.helpinghand.daoImpl.MessageDaoImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/daoImpl/MessageDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="271" x="6817" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="21" language="java" name="com.helpinghand.service.BookpostService" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/service/BookpostService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="216" x="5504" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" name="com.helpinghand.serviceImpl.AdminServiceImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/serviceImpl/AdminServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="190" x="4992" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.helpinghand.daoImpl.ContactdaoImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/daoImpl/ContactdaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="195" x="3810" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.helpinghand.daoImpl.MatrialpostDaoImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/daoImpl/MatrialpostDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="242" x="5222" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="25" language="java" name="com.helpinghand.dao" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/dao" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="145" x="1691" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="26" language="java" name="com.helpinghand.dao.CategoryDao" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/dao/CategoryDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="186" x="3584" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="com.helpinghand.model.Messageshopkeeper" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/model/Messageshopkeeper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="264" x="45" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.helpinghand.model.Admin" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/model/Admin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="193" x="1458" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.helpinghand.utils.HibernateUtil" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/utils/HibernateUtil.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="204" x="1876" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="30" language="java" name="com.helpinghand.controller" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/controller" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="179" x="966" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="31" language="java" name="com.helpinghand.daoImpl.AdminDaoImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/daoImpl/AdminDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="190" x="4271" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="32" language="java" name="com.helpinghand.dao.Contactdao" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/dao/Contactdao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="195" x="3810" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="33" language="java" name="com.helpinghand.dao.MessageDao" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/dao/MessageDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="271" x="6817" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="34" language="java" name="com.helpinghand.dao.MatrialpostDao" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/dao/MatrialpostDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="242" x="5222" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="35" language="java" name="com.helpinghand.model.BookPost" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/model/BookPost.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1179" width="689" x="4263" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.helpinghand.controller.ManageLogout" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/controller/ManageLogout.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="2120" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="37" language="java" name="com.helpinghand.utils" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/utils" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="148" x="579" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="38" language="java" name="com.helpinghand.utils.SendEmail" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/utils/SendEmail.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="233" x="1185" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.helpinghand.serviceImpl.MatrialpostServiceImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/serviceImpl/MatrialpostServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="242" x="5760" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.helpinghand.serviceImpl.ContactserviceImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/serviceImpl/ContactserviceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="195" x="4501" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="41" language="java" name="com.helpinghand.service.MessageService" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/service/MessageService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="271" x="6506" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="42" language="java" name="com.helpinghand.serviceImpl.MessageServiceImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/serviceImpl/MessageServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="271" x="6506" y="1256"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.helpinghand.model.MaterialPost" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/model/MaterialPost.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1071" width="623" x="2920" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="44" language="java" name="com.helpinghand.serviceImpl" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/serviceImpl" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="190" x="349" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="45" language="java" name="com.helpinghand.controller.ManageAdmin" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/controller/ManageAdmin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="288" x="4992" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="46" language="java" name="com.helpinghand.model" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/model" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="159" x="767" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="47" language="java" name="com.helpinghand.service.CategoryService" project="HelpingHands" 
+    file="/HelpingHands/src/com/helpinghand/service/CategoryService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="186" x="4045" y="1629"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="48">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="49" name="bookpostservice"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="52" name="messageservice"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="54">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="55">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="56" name="messagedao"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="58">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="59">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="60" name="categoryservice"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="63" name="adminservice"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="65">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="66">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="33"/>  
+  </realization>  
+  <realization id="67">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="47"/>  
+  </realization>  
+  <realization id="68">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="69">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <association id="70">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="71" name="materialpostservice"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="74" name="bookpostdao"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="77" name="contactservice"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="79">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="80">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="81" name="category"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="83">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <association id="84">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="85" name="admindao"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="87">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <realization id="88">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="41"/>  
+  </realization>  
+  <realization id="89">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <association id="90">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="91" name="contactdao"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="94" name="adminService"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="96">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="34"/>  
+  </realization>  
+  <association id="97">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="98" name="matrialpostdao"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="101" name="userservice"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="103">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <association id="104">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="105" name="manageruser"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

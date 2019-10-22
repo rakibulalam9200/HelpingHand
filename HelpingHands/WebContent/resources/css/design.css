@@ -1,0 +1,177 @@
+<style>
+
+
+
+.maincontentsection{
+    padding:5px;
+    margin-top:70px;
+    margin-bottom:150px;
+}
+.formtitle{
+    padding:5px;
+    background: #C6C6C6;
+    margin-top:20px;
+    margin-bottom:30px;
+    border-radius:8px;
+}
+.formtitle h5{
+    padding:10px;
+    color:#FFFFFF;
+    
+}
+
+
+.registratoinreminder a{
+    font-style: normal;
+    font-size: 20px;
+    
+}
+ .bannersection{
+    margin-top:80px;
+    padding:5px;
+    height:150px;
+    background: #80D6A3;
+}
+.bannertitle{
+    padding:5px;
+}
+.bannertitle h3{
+    text-align:center;
+    color:#FFFFFF;
+    font-size:30px;
+    font-weight:bold;
+    margin-top:50px;
+
+}
+.maincontentsection{
+    padding:5px;
+    margin-top:70px;
+    margin-bottom:150px;
+}
+
+.selectCategory {
+    width: 140;
+    height: 200px;
+    background: #E8F8EE;
+    border-radius: 10px;
+}
+
+.selectCategory i {
+    font-size: 77px;
+    margin-top:30px;
+}
+
+.selectCategory h3 {
+    text-align:center;
+    margin-top:20px;
+    font-weight:bold;
+}
+
+.makealign{margin-bottom:10px;}
+.myalignment {
+    border: 1px solid #E8EAED;
+    border-radius: 5px;
+    margin-bottom: 35px;
+}
+
+.customDiv {
+    background: #FFFFFF;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 1px solid #F1F1F1;
+}
+
+.myalignment:hover {
+    border: 1.5px solid #E8EAED;
+}
+
+.productdescription h4 {
+    margin-top: 7px;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.productdescription h6 {
+    padding: 3px;
+    font-size: 14px
+}
+
+.productdescription p {
+    padding: 1px;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.productView p {
+    margin-bottom: 10px;
+
+}
+
+.productView h3 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-left: 12px;
+}
+
+.productView a {
+    padding: 5px;
+    background: #574A4A;
+    border: 2px solid #202322;
+    color: white;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+
+.productType h4 {
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #60AE1B;
+}
+
+.checkfont {
+    font-weight: bold;
+}
+
+.Viewpostproduct {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.searchalignment {
+    width: 236px;
+    margin-left: 5px;
+}
+
+.checkbox-inline {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.optionsection {
+    margin-top: 50px;
+}
+
+.mymaerials {
+    background: red;
+    height: 80px;
+    width: 80px;
+    border: 5px solid gray;
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-bottom:200px;
+}
+
+.btndesign{
+	
+	width: 200px;
+	border-radius: 6px;
+	height: 40px;
+	margin-right: 10px;
+	margin-top: 25px;
+	margin-bottom: 50px;
+	}
+</style>

@@ -1,0 +1,85 @@
+.bannersection {
+	margin-top: 80px;
+	padding: 5px;
+	height: 150px;
+	background: #80D6A3;
+}
+
+.bannertitle {
+	padding: 5px;
+}
+
+.bannertitle h3 {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 50px;
+	
+}
+
+.maincontentsection {
+	padding: 5px;
+	margin-top: 70px;
+	margin-bottom: 150px;
+}
+
+.formtitle {
+	padding: 5px;
+	background: #C6C6C6;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	border-radius: 8px;
+}
+
+.formtitle h5 {
+	padding: 10px;
+	color: #FFFFFF;
+	
+}
+
+.optionsection {
+	margin-top: 100px;
+}
+
+.adminGenerateReport {
+	border-radius: 7px;
+	background: #FFFFFF;
+	border: 3px solid #80D6A3;
+	margin-top: 40px;
+}
+
+.adminGenerateReport p {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10px;
+	color: red;
+	margin-bottom: 10px;
+}
+
+.adminGenerateReport a {
+	font-weight: bold;
+	margin-left: 48px;
+	margin-bottom: 10px;
+	
+}
+
+.table {
+	margin-top: 20px;
+}
+
+.table th {
+	border: 1px solid #E8EAED;
+	text-align: center;
+	font-size: 16px;
+}
+
+.table tr {
+	border: 1px solid #E8EAED;
+}
+
+.table tr td {
+	border: 1px solid #E8EAED;
+	text-align: center;
+	font-size: 15px;
+}
