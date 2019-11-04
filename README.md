@@ -1,2 +1,5 @@
 # HelpingHand
-the main purpose of my application is to increase the effectives of the usage of books or educational materials and makes them more available among the poor/underprivileged people. 
+The main purpose of my application is to increase the effectives of the usage of books or educational materials and makes them more available among the poor/underprivileged people. So, using the system many people in our country will be able to participate in the humanitarian deeds whose have limited abilities. The system will able to contribute for the development of the country by improving it both economically and socially.  
+
+People can be able to donate/exchange/sell books easily through the system. For this, they need to click add a post and insert all the details for the books. Other educational materials (like, calculator, reading table, table clock, geometry box) also can be donated, exchanged, sold through the system. The proposed system has two types of users. One is the user can able to post for donating/exchanging/selling a book/educational material and the same user can able to communicate with other user to buy/exchange/accept charitable books/educational materials. Another is the administrator who can able to manage users and their posts.
+
